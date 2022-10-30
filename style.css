@@ -1,0 +1,9 @@
+p {
+    /*rgb(255, 0, 0), rgba(255, 0, 0, 0,5) - если ставить меньше 1 текст становиться прозрачным*/
+    color: rgba(255, 0, 0);
+    font-size: 25px;
+}
+ol{
+    color: aqua;
+    font-size: medium;
+}
